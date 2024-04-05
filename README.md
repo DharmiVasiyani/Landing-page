@@ -14,9 +14,3 @@ This is a one page portfolio template project made in HTML and CSS.
 - I learned to style font with photo.
 
 
-
-# Time to finish the projecet
-
-I took about 8-9 hours approximately to complete this project.
-
-
