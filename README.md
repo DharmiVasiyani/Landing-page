@@ -3,13 +3,9 @@
 
 This is a one page portfolio template project made in HTML and CSS.
 
-# Project live link
-
-[Landing Page Project](https://statuesque-sorbet-a1eda0.netlify.app)
-
 # Screenshot
 
-![Screenshot](./10.1.png)
+![Screenshot](./image.png)
 
 # My learnings from this projects
 
